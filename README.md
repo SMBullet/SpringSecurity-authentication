@@ -1,7 +1,3 @@
-# ms-secure-sign
-
-**ms-secure-sign** is a Spring Boot application for secure user management using JWT for authentication.
-
 ## Features
 
 - User registration
